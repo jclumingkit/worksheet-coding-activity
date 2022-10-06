@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worksheet-coding-activity/static/css/main.d7f8e2ad.css",
+    "main.js": "/worksheet-coding-activity/static/js/main.cc12bfbd.js",
+    "static/js/787.0ce5f927.chunk.js": "/worksheet-coding-activity/static/js/787.0ce5f927.chunk.js",
+    "index.html": "/worksheet-coding-activity/index.html",
+    "main.d7f8e2ad.css.map": "/worksheet-coding-activity/static/css/main.d7f8e2ad.css.map",
+    "main.cc12bfbd.js.map": "/worksheet-coding-activity/static/js/main.cc12bfbd.js.map",
+    "787.0ce5f927.chunk.js.map": "/worksheet-coding-activity/static/js/787.0ce5f927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f8e2ad.css",
+    "static/js/main.cc12bfbd.js"
+  ]
+}
